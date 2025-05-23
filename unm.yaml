@@ -25,7 +25,7 @@ dns:
 proxies:
 - name: "UnblockMusic"
   type: http
-  server: im.040400.xyz
+  server: im.w.040400.xyz
   port: 52100
 
 proxy-groups:
